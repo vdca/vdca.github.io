@@ -1,7 +1,8 @@
 @import url("reset.css");
+
 @font-face {
-  font-family: FranklinGothic;
-  src: url('framd.ttf');
+    font-family: 'ubuntu';
+    src: local('ubuntu'), url(Ubuntu-R.ttf);
 }
 
 body {
